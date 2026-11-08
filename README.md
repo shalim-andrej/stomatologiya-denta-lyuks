@@ -1,5 +1,12 @@
 # Дента-Люкс — сайт стоматологии
 
+## Демо
+
+**[Открыть сайт →](https://shalim-andrej.github.io/stomatologiya-denta-lyuks/)**
+
+![Главный экран — десктоп](screenshots/desktop.png)
+![Мобильная версия](screenshots/mobile.png)
+
 Одностраничный сайт стоматологической клиники: услуги с ценами, отзывы пациентов, ответы на частые вопросы и форма записи на приём.
 
 **Демо:** [shalim-andrej.github.io/stomatologiya-denta-lyuks](https://shalim-andrej.github.io/stomatologiya-denta-lyuks/)
